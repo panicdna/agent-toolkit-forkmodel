@@ -4,6 +4,8 @@ Opinionated skills shared by [@leonardocouy](https://github.com/leonardocouy) fo
 
 Skills follow the [Agent Skills](https://agentskills.io/) format.
 
+> 🍴 Forked from [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit).
+
 ---
 
 ## 🧭 Quick Navigation
