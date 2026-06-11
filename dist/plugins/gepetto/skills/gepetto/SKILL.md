@@ -1,6 +1,8 @@
 ---
 name: gepetto
 description: Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. Use when planning features that need thorough pre-implementation analysis.
+context: fork
+model: sonnet
 ---
 
 # Gepetto

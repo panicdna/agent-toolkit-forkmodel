@@ -5,6 +5,8 @@ license: MIT
 metadata:
   version: 1.0.0
   tags: [design-system, ui, components, design-tokens, accessibility, frontend]
+context: fork
+model: opus
 ---
 
 # Design System Starter

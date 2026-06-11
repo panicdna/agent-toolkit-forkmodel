@@ -1,6 +1,8 @@
 ---
 name: gemini
 description: Use when the user asks to run Gemini CLI for code review, plan review, or big context (>200k) processing. Ideal for comprehensive analysis requiring large context windows. Uses Gemini 3 Pro by default for state-of-the-art reasoning and coding.
+context: fork
+model: haiku
 ---
 
 # Gemini Skill Guide

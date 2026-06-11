@@ -4,6 +4,8 @@ description: Smart dependency management for any language. Auto-detects project 
 license: MIT
 metadata:
   version: 1.0.0
+context: fork
+model: sonnet
 ---
 
 # Dependency Updater

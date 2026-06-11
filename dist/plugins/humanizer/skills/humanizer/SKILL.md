@@ -17,6 +17,8 @@ allowed-tools:
   - Grep
   - Glob
   - AskUserQuestion
+context: fork
+model: sonnet
 ---
 
 # Humanizer: Remove AI Writing Patterns

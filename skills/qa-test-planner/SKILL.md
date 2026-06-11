@@ -2,6 +2,8 @@
 name: qa-test-planner
 description: Generate comprehensive test plans, manual test cases, regression test suites, and bug reports for QA engineers. Includes Figma MCP integration for design validation.
 trigger: explicit
+context: fork
+model: sonnet
 ---
 
 # QA Test Planner

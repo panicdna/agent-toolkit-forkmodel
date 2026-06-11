@@ -6,6 +6,8 @@ Skills follow the [Agent Skills](https://agentskills.io/) format.
 
 > 🍴 Forked from [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit).
 
+> ⚡ **forkmodel variant** — forked from [panicdna/agent-toolkit](https://github.com/panicdna/agent-toolkit). Every skill's `SKILL.md` declares `context: fork` + `model:`, so each skill runs as an independent forked context with a model matched to its workload instead of inheriting the main conversation's model. Tiers: `opus` for deep reasoning/design/judging skills, `haiku` for mechanical or external-CLI wrapper skills, `sonnet` for everything else. See [#1](https://github.com/panicdna/agent-toolkit-forkmodel/issues/1) for the rationale and full tier table.
+
 ---
 
 ## 🧭 Quick Navigation

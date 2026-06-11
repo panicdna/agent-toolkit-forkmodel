@@ -1,6 +1,8 @@
 ---
 name: perplexity
 description: Web search and research using Perplexity AI. Use when user says "search", "find", "look up", "ask", "research", or "what's the latest" for generic queries. NOT for library/framework docs (use Context7) or workspace questions.
+context: fork
+model: haiku
 ---
 
 # Perplexity Tools

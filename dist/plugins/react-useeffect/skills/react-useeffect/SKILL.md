@@ -1,6 +1,8 @@
 ---
 name: react-useeffect
 description: React useEffect best practices from official docs. Use when writing/reviewing useEffect, useState for derived values, data fetching, or state synchronization. Teaches when NOT to use Effect and better alternatives.
+context: fork
+model: sonnet
 ---
 
 # You Might Not Need an Effect

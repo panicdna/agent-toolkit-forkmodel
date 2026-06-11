@@ -1,6 +1,8 @@
 ---
 name: draw-io
 description: draw.io diagram creation, editing, and review. Use for .drawio XML editing, PNG conversion, layout adjustment, and AWS icon usage.
+context: fork
+model: sonnet
 ---
 
 # draw.io Diagram Skill

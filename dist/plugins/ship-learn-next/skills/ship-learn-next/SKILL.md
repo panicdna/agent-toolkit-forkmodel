@@ -4,6 +4,8 @@ description: Transform learning content (like YouTube transcripts, articles, tut
 allowed-tools:
   - Read
   - Write
+context: fork
+model: sonnet
 ---
 
 # Ship-Learn-Next Action Planner

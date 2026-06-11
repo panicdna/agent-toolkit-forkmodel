@@ -1,6 +1,8 @@
 ---
 name: naming-analyzer
 description: Suggest better variable, function, and class names based on context and conventions.
+context: fork
+model: sonnet
 ---
 
 # Naming Analyzer Skill

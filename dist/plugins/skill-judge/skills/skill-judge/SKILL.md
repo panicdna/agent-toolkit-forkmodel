@@ -1,6 +1,8 @@
 ---
 name: skill-judge
 description: Evaluate Agent Skill design quality against official specifications and best practices. Use when reviewing, auditing, or improving SKILL.md files and skill packages. Provides multi-dimensional scoring and actionable improvement suggestions.
+context: fork
+model: opus
 ---
 
 # Skill Judge
